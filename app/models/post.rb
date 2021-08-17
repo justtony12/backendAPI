@@ -6,5 +6,4 @@ class Post < ApplicationRecord
         rails_blob_path(self.art)
     end
 
-    # validates :caption, presence: true
 end

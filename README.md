@@ -1,24 +1,24 @@
-# README
+# Pixelgram backend API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the backend API meant to work with the Pixelgram frontend which you can find at https://github.com/justtony12/finalProjectReact.git.
 
-Things you may want to cover:
+* To start the backend first copy the SSH link at the top write corner, copy it onto your terminal.
 
-* Ruby version
+* Next run the following command in order to instal the required gems.
 
-* System dependencies
+```bash
+bundle install
+```
 
-* Configuration
+* Once the required gems are installed run the following command to start up the server.
 
-* Database creation
+```rails s
+```
 
-* Database initialization
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-* How to run the test suite
+Please make sure to update tests as appropriate.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
