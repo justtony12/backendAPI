@@ -12,7 +12,8 @@ bundle install
 
 * Once the required gems are installed run the following command to start up the server.
 
-```rails s
+```bash
+rails s
 ```
 
 ## Contributing
